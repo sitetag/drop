@@ -1,0 +1,12 @@
+@media screen and (max-width: 630px){
+    .dropdown-menu li{
+        width: 95px;
+        height: 50px;
+        list-style: none;
+    }
+}
+@media screen and (max-width: 495px){
+    .dropdown-menu li{
+        background-position: ;
+    }
+}
